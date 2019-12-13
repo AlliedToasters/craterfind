@@ -4,10 +4,11 @@ This is a prototype application for AI-assisted "one-click" crater annotation by
 
 ## Overview
 
-CRATERFIND uses a neural network model to locate a crater given a rough crater location and an input image. This information is provided by an annotator with a single click.
+CRATERFIND uses a neural network model to locate a crater given a rough crater location and an input image. This information is provided by an annotator with a single click. <br><br>
+The model takes an array of 32x32 pixels and returns three values, a 3-point representation of a circle (x,y,r). Below is an example input and the output is overlaid on the input image.
 
-![](./content/input.png)
-![](./content/output.png)
+![Input (raw pixels)](./content/input.png)
+![Output (3-point circle)](./content/output.png)
 
 ## Purpose of This Repository
 
