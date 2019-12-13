@@ -1,0 +1,6 @@
+#THERE ARE NO PYTHON REQUIREMENTS FOR RUNNING THE API
+#these are requirements for running the PYTHON DEMO NOTEBOOK ONLY
+jupyter
+scipy
+numpy
+matplotlib
