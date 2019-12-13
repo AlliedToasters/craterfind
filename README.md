@@ -16,7 +16,7 @@ Much work is being done on solving this problem, but CRATERFIND works on the spe
 Specifically, this repository provides documentation for the API which can be deployed locally using docker. A python demonstration of using the API is provided in the [demo notebook](API_demo.ipynb).
 
 ## Installation
-This can be run as a RESTful service on the local system using docker; the only dependency is docker (installation for [ubuntu](https://docs.docker.com/install/linux/docker-ce/ubuntu/), [Mac](https://docs.docker.com/docker-for-mac/install/), [Windows](https://docs.docker.com/docker-for-windows/install/).<br><br>
+This can be run as a RESTful service on the local system using docker; the only dependency is docker (installation for [ubuntu](https://docs.docker.com/install/linux/docker-ce/ubuntu/), [Mac](https://docs.docker.com/docker-for-mac/install/), [Windows](https://docs.docker.com/docker-for-windows/install/)).<br><br>
 Launch the service (listening on port `8501`) with:
 
 ```
