@@ -12,4 +12,7 @@ The model takes an array of 32x32 pixels and returns three values, a 3-point rep
 
 ## Purpose of This Repository
 
-Much work is being done on solving this problem, but CRATERFIND works on the specific problem of integrating this technology with existing user interfaces.
+Much work is being done on solving this problem, but CRATERFIND works on the specific problem of integrating this technology with existing user interfaces.<br><br>
+Specifically, this repository provides documentation for the API which can be deployed locally using docker. A python demonstration of using the API is provided in the [demo notebook](API_demo.ipynb).
+
+## Installation
